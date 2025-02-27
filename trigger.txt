@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+nginx:latest crpi-0jrzmqb912s8qlj7.cn-hangzhou.personal.cr.aliyuncs.com/psdli/nginx:latest
