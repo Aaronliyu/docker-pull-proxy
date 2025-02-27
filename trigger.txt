@@ -1,1 +1,1 @@
-docker:latest crpi-0jrzmqb912s8qlj7.cn-hangzhou.personal.cr.aliyuncs.com/psdli/docker:latest
+nginx:latest crpi-0jrzmqb912s8qlj7.cn-hangzhou.personal.cr.aliyuncs.com/psdli/nginx:latest
