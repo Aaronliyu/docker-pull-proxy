@@ -1,1 +1,2 @@
-nginx:latest crpi-0jrzmqb912s8qlj7.cn-hangzhou.personal.cr.aliyuncs.com/psdli/nginx:latest
+nginx:alpine crpi-0jrzmqb912s8qlj7.cn-hangzhou.personal.cr.aliyuncs.com/psdli/psdlirep/psdli/nginx:alpine
+
